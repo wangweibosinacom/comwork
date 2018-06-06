@@ -1,3 +1,4 @@
 springboot:https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#using-boot-starter
 事务:http://www.cnblogs.com/xusir/p/3650522.html
 git:https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+mybatis-generator:https://blog.csdn.net/wangxy799/article/details/60870361
